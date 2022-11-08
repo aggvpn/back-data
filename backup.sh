@@ -1,4 +1,5 @@
 #!/bin/bash
+
 IP=$(wget -qO- icanhazip.com);
 date=$(date +"%Y-%m-%d")
 clear
